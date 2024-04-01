@@ -2,7 +2,7 @@
 
 - 👋 Olá, me chamo Daniel Rocha
 - 👀 Atualmente eu estou me graduando em Análise e Desenvolvimento de Sistemas no Instituto Federal de Rôndonia.
-- 🌱 No momento, eu estou estudando a linguagem C#.
+- 🌱 No momento, eu estou aprendendo a linguagem C#.
 - 📫 Contate-me no email: danielcristian0706@gmail.com
 
 
